@@ -97,3 +97,4 @@ echo $gender;
 ?>
 </body>
 </html>
+This is PHP Form validation
